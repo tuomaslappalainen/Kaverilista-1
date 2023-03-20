@@ -81,7 +81,7 @@ font-weight: 400;
 
 h1 {
 text-align: center;
-margin-top: 280px;
+margin-top: 0px;
 font-size: 330%;
 text-shadow: 1px 1px 1px red, 2px 2px 1px red;
 }
